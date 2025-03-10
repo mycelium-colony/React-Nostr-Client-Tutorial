@@ -10,7 +10,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/mycelium-colony/React-Nostr-Client-Tutorial.git
-cd React-Nostr-Client-Tutorial
+cd React-Nostr-Client-Tutorial/nostr-feed/
 
 # Install dependencies
 npm install
