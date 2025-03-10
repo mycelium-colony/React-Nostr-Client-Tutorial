@@ -9,8 +9,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nostr-client.git
-cd nostr-client
+git clone https://github.com/mycelium-colony/React-Nostr-Client-Tutorial.git
+cd React-Nostr-Client-Tutorial
 
 # Install dependencies
 npm install
