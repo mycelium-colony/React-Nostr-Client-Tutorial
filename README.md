@@ -23,6 +23,8 @@ npm run dev
 
 https://www.cursor.com/
 
+- If you wish to use Cursor to create your own Nostr client, be sure to download and include the [Nostr NIPs](https://github.com/nostr-protocol/nips) and the [nostr-tools](https://github.com/nbd-wtf/nostr-tools) documentation in your repo, so Claude can reference them.
+
 # The Prompt
 
 > This is the prompt I used to generate this Nostr client using Claude 3.7
