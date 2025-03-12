@@ -2,15 +2,15 @@
 
 > This guide is intended for people who wish to learn the basics of the Nostr protocol by building a simple React client that offers basic functionality using the [nostr-tools](https://github.com/nbd-wtf/nostr-tools) library. This project was generated with Claude 3.7.
 
-- [Architecture](/nostr-client/ARCHITECTURE.md)
-- [README](/nostr-client/README.md)
+- [Architecture](/app/nostr-client/ARCHITECTURE.md)
+- [README](/app/nostr-client/README.md)
 
 ### Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/mycelium-colony/React-Nostr-Client-Tutorial.git
-cd React-Nostr-Client-Tutorial/nostr-feed/
+cd React-Nostr-Client-Tutorial/app/nostr-client/
 
 # Install dependencies
 npm install
