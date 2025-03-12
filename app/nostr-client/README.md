@@ -105,39 +105,9 @@ The client supports composing new notes and replies. It uses the NIP-07 browser 
 - **NIP-22**: Event replies
 - **NIP-45**: Event counts
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v14 or later)
 - npm or Bun
 
-### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/nostr-client.git
-cd nostr-client
-
-# Install dependencies
-npm install
-# or
-bun install
-
-# Start the development server
-npm run dev
-# or
-bun run dev
-```
-
-### Building for Production
-
-```bash
-npm run build
-# or
-bun run build
-```
-
-## License
-
-MIT
